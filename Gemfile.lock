@@ -1,0 +1,18 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    memoist (0.16.2)
+    sorbet-runtime (0.5.5373)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  memoist
+  sorbet-runtime
+
+RUBY VERSION
+   ruby 2.6.5p114
+
+BUNDLED WITH
+   2.1.2
